@@ -1,0 +1,6 @@
+.DS_Store
+__pycache__
+/twin_env
+# /diabetes
+/malaria
+/utils
